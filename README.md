@@ -8,7 +8,7 @@ project made on Vscode , demo video provided through Google drive link
 
 
 # learnathon-project-1
-Design and develop a simple, sensor-assisted or data-driven system that recommends the most suitable crop to cultivate based on soil macronutrients (N, P, K), pH level, temperature, humidity, and rainfall. The system should analyze the current soil and weather conditions to provide accurate crop suggestions for small farm holders.
+simple, sensor-assisted or data-driven system which recommends the most suitable crop to cultivate based on soil macronutrients (N, P, K), pH level, temperature, humidity, and rainfall. The system analyze the current soil and weather conditions to provide accurate crop suggestions for small farm holders.
 
 **#feature of the project:** 
 1)it recommends us more than one crop (top 5 recommendation with a suitability percentage), our approach to this output was because when a farmer would need a suggestion , this model will not only give him one option rather it will give multiple options so the farmer would have options wont have to make any type of compromization.
